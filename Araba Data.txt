@@ -1,0 +1,3 @@
+    114             34_AS_234422         BMW            M4             ISTANBUL
+    226             06_S_2123123         AUDI           A8             ANKARA
+    200             04_CS_221222         TOYOTA         COROLLA        IZMIR
